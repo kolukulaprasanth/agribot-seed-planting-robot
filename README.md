@@ -89,14 +89,12 @@ This combination of robotics and automation improves planting consistency and re
 
 ## 📸 Project Demonstration
 
-### Robot Model
-![Robot](images/working/agribot_top_view.jpg)
 
 ### Robot Hardware
-![Robot](images/working/agribot_side_view.jpg)
+![Robot](images/Hardware.png)
 
 ### System Block Diagram
-![Diagram](images/design/agribot_block_diagram.png)
+![Diagram](images/Flowchart.png)
 
 ---
 
